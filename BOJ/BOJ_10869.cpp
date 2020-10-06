@@ -9,15 +9,15 @@ int main() {
 
 	cin >> num1 >> num2;
 
- 	if((num1 > 10000) || (num1 < 0) || (num2 > 10000) || (num2 < 0)) {  //Á¶°Ç¿¡ ¸Â´ÂÁö È®ÀÎ
+ 	if((num1 > 10000) || (num1 < 0) || (num2 > 10000) || (num2 < 0)) {  //ì¡°ê±´ì— ë§žëŠ”ì§€ í™•ì¸
 		cout << "Please enter another number!" << endl;
 		cin >> num1 >> num2;
 		while(1) {
-			if ((num1 > 10000) || (num1 < 0) || (num2 > 10000) || (num2 < 0)) { //Á¶°Ç¿¡ ¸ÂÀ¸¸é while¹® ¾È¿¡¼­ ¼ö update
+			if ((num1 > 10000) || (num1 < 0) || (num2 > 10000) || (num2 < 0)) { //ì¡°ê±´ì— ë§žìœ¼ë©´ whileë¬¸ ì•ˆì—ì„œ ìˆ˜ update
 				cout << "Please enter another number!" << endl;
 				cin >> num1 >> num2;
 			}
-			else { //¾Æ´Ï¸é while¹® Å»Ãâ
+			else { //ì•„ë‹ˆë©´ whileë¬¸ íƒˆì¶œ
 				break;
 			}
 		}
