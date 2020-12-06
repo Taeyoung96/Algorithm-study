@@ -57,5 +57,15 @@
 - 코테에서 처음으로 클래스를 사용하여 푼 문제다.  
 - sort()와 stable_sort()의 차이점을 알 수 있는 문제였다.
 
+#### [BOJ_2108](https://www.acmicpc.net/problem/2108) - 통계학
+- 벡터와 sort()를 이용해서 풀 수 있었던 문제  
+- 최빈값을 구할 때 pair을 이용해서 간단하게 해결할 수 있었다.  
+- 출처 : [[STL] vector 벡터 정리 및 예제](https://hyeonstorage.tistory.com/324)  
+         [[C++] Pair 클래스 정리 및 예제 (vector, sort)](https://blockdmask.tistory.com/64)  
+         [[백준 2108] 통계학 (최빈값, 산술평균, 중앙값, 범위)](https://blockdmask.tistory.com/113)
+
+
+
+
 
 
