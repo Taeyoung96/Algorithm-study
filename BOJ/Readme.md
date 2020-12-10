@@ -64,6 +64,16 @@
          [[C++] Pair 클래스 정리 및 예제 (vector, sort)](https://blockdmask.tistory.com/64)  
          [[백준 2108] 통계학 (최빈값, 산술평균, 중앙값, 범위)](https://blockdmask.tistory.com/113)
 
+#### [BOJ_15649](https://www.acmicpc.net/problem/15649) - N과 M (1)  
+- 벡트레킹에 대한 첫번째 문제였다.  
+- 벡트레킹을 구현하는 방법 중 모든 방법을 탐색하는데 재귀함수를 이용,  
+  조건에서 맞지 않는 방법은 탐색하지 않는 방법을 택했다.  
+- 이런 생각을 하기까지 많은 시간이 걸렸다.  
+- 실제 숫자를 담을 배열과 그 곳을 방문했다는 것을 Check할 배열 2가지를 만드는 것으로 Start!  
+- cnt를 증가시켜 재귀함수를 사용하자 -> 무언가가 일정하게 반복된다? 재귀함수!  
+- 출처 : [BOJ 15649. N과 M (1)](https://velog.io/@polynomeer/BOJ-1564957.-N%EA%B3%BC-M-18)  
+
+
 
 
 
