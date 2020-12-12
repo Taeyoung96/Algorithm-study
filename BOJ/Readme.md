@@ -74,6 +74,12 @@
 - 조건에 맞지 않으면 탐색하지 말자.  
 - 출처 : [BOJ 15649. N과 M (1)](https://velog.io/@polynomeer/BOJ-1564957.-N%EA%B3%BC-M-18)  
 
+#### [BOJ_9663](https://www.acmicpc.net/problem/9663) - N-Queen  
+- 벡트레킹 = 완전 탐색 + 가지치기  
+- 문제에는 2차원 행렬을 이용하는 것처럼 말을 했지만,  
+  사실 1차원 행렬로도 충분히 풀 수 있는 문제였다.  
+- 이번 문제도 시간이 오래 걸렸다...  
+- 출처 : [9663번 N-QUEEN C++ 풀이](https://cryptosalamander.tistory.com/58)  
 
 
 
