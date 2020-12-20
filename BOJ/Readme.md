@@ -81,6 +81,10 @@
 - 이번 문제도 시간이 오래 걸렸다...  
 - 출처 : [9663번 N-QUEEN C++ 풀이](https://cryptosalamander.tistory.com/58)  
 
+#### [BOJ_2167](https://www.acmicpc.net/problem/2167) - 2차원 배열의 합  
+- 2차원 배열 동적할당에 대한 문제  
+- 동적할당을 만들 때 arr[행][열] 이렇게 접근을 하자.  
+- 출처 : [How do I declare a 2d array in C++ using new?](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  
 
 
 
