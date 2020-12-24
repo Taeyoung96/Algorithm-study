@@ -87,6 +87,11 @@
 - **행 - row, 열 - col** : 항상 헷갈린다..  
 - 출처 : [How do I declare a 2d array in C++ using new?](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  
 
+#### [BOJ_10845](https://www.acmicpc.net/problem/10845) - 큐  
+- 기본적인 자료구조 Queue를 직접 구현하는 문제  
+- C++은 문자열 split을 직접 해주는 함수가 없으므로 구현을 하자.  
+- 배열을 이용하여 인덱스를 사용하여 원소에 접근하면 크게 어려운 문제는 아니였다.  
+- 참고 : [[C++] string 문자열 나누는 split](https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split)  
 
 
 
