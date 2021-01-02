@@ -93,6 +93,11 @@
 - 배열을 이용하여 인덱스를 사용하여 원소에 접근하면 크게 어려운 문제는 아니였다.  
 - 참고 : [[C++] string 문자열 나누는 split](https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split)  
 
+#### [BOJ_10828](https://www.acmicpc.net/problem/10828) - 스택  
+- 앞서 풀어본 큐와 매우 유사한 문제이다.  
+- 큐와 스택의 기본적인 차이점에 대해서 알 수 있던 문제였다.  
+
+
 
 
 
