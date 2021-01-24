@@ -91,11 +91,20 @@
 - 기본적인 자료구조 Queue를 직접 구현하는 문제  
 - C++은 문자열 split을 직접 해주는 함수가 없으므로 구현을 하자.  
 - 배열을 이용하여 인덱스를 사용하여 원소에 접근하면 크게 어려운 문제는 아니였다.  
-- 참고 : [[C++] string 문자열 나누는 split](https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split)  
+- 출처 : [[C++] string 문자열 나누는 split](https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split)  
 
 #### [BOJ_10828](https://www.acmicpc.net/problem/10828) - 스택  
 - 앞서 풀어본 큐와 매우 유사한 문제이다.  
 - 큐와 스택의 기본적인 차이점에 대해서 알 수 있던 문제였다.  
+
+#### [BOJ_2346](https://www.acmicpc.net/problem/2346) - 풍선 터뜨리기  
+- 처음 이 문제를 보자마자 생각 난 자료구조는 **원형 연결 리스트**이다.  
+- 원형 연결 리스트를 구현해서 이 문제를 풀어야 하나 생각했지만, 조금의 trick을 생각해냈다.  
+- deque를 이용하여 리스트를 표현하고 원소들의 순서를 바꾸어 내는 아이디어가 더 간단해보였다.  
+- Deque는 vector 자료구조의 단점을 보완하기 위해 나온 Container이다.  
+- 출처 : [BOJ : 2346 풍선 터뜨리기](https://deliorange.tistory.com/48)  
+         [[C++] deque container 정리 및 사용법](https://blockdmask.tistory.com/73)  
+         [[C++] Pair 클래스 정리 및 예제 (vector, sort)](https://blockdmask.tistory.com/64)
 
 
 
