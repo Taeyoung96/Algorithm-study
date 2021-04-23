@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	int k, p, n, target = 1000000007;
-	long long answer;
+	int answer;
 	cin >> k;
 	cin >> p;
 	cin >> n;
@@ -21,7 +21,9 @@ int main(int argc, char** argv)
 		answer = answer % target;
 	}
 
-	cout << (int)answer << endl;
+	answer = answer % target;
+
+	cout << answer << endl;
 
 	return 0;
 }
