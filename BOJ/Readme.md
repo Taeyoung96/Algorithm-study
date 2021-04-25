@@ -106,7 +106,11 @@
          [[C++] deque container 정리 및 사용법](https://blockdmask.tistory.com/73)  
          [[C++] Pair 클래스 정리 및 예제 (vector, sort)](https://blockdmask.tistory.com/64)
 
-
+#### [BOJ_11723](https://www.acmicpc.net/problem/11723) - 집합  
+- 문제의 의도를 파악하지는 못했지만 꾸역꾸역 맞춘 문제  
+- endl보단 "\n"으로! 속도 차이가 꽤 난다.  
+- 비트마스크에 대해서 알 수 있었던 문제  
+- 출처 : [[백준] 11723번 집합 - C++ 비트마스크](https://donggoolosori.github.io/2020/09/24/boj-11723/)  
 
 
 
