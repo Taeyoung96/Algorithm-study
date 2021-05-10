@@ -23,7 +23,13 @@
 - 여기서도 숫자의 범위를 주의해야 한다.  
 
 
-#### [스마트 물류](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/smart_logistics.cpp) - Lv 3  
+#### [스마트 물류](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=414) - Lv 3  
 - 제출 답안 : [smart_logistics.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/smart_logistics.cpp)  
 - 플래그(bool 배열)를 이용하여 풀 수 있었던 문제  
 - 로봇이 집을 수 있는 최대한 멀리 있는 것을 집고, 왼쪽부터 순서대로 집는다는 가정을 했는데 그 가정이 맞았던 것 같다.  
+
+#### [8단 변속기](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=408) - Lv 2  
+- 제출 답안 : [transmission.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/transmission.cpp)  
+- 단순하게 생각했는데, 정말 그 방법이 맞았던 문제  
+- 일단 생각나는데로 코딩을 해보자.  
+
