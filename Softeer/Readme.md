@@ -20,6 +20,13 @@
 - 단순하게 생각했는데, 정말 그 방법이 맞았던 문제  
 - 일단 생각나는데로 코딩을 해보자.  
 
+#### [금고 털이](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=395)  
+- 제출 답안 : [safebreaker.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/safebreaker.cpp)  
+- vector와 pair의 조합으로 Input을 받고, 내림차순을 이용하여 쉽게 풀 수 있었던 문제  
+- 예외적인 경우를 항상 생각해보자.  
+- 참고 : [vector<pair<int, int>> v; 정렬하는 방법](https://hsdevelopment.tistory.com/151)  
+         [[C++] pair와 vector 사용하기](https://m.blog.naver.com/PostView.nhn?blogId=ckdgus1433&logNo=221666899817&proxyReferer=https:%2F%2Fwww.google.com%2F)  
+
 
 ### Lv 3
 
