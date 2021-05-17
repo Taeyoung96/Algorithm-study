@@ -43,3 +43,10 @@
 - 제출 답안 : [smart_logistics.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/smart_logistics.cpp)  
 - 플래그(bool 배열)를 이용하여 풀 수 있었던 문제  
 - 로봇이 집을 수 있는 최대한 멀리 있는 것을 집고, 왼쪽부터 순서대로 집는다는 가정을 했는데 그 가정이 맞았던 것 같다.  
+
+#### [징검다리](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=390)  
+- 제출 답안 : [stepping_stone.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/stepping_stone.cpp)  
+- 큐 자료구조를 이용해서 풀려고 했으나, 실패... 예외처리를 실패한 것 같다.  
+- Algo tutor를 보고 힌트를 얻어 문제를 풀었다.  
+- 전역 변수로 배열을 만들어서 푸는 것이 가장 일반적인 듯  
+
