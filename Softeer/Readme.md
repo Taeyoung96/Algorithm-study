@@ -56,3 +56,12 @@
 - 만약 비교를 하지 않으면 내가 세다고 계속 인식한다는 것을 놓침.  
 - 그 이외에는 내가 생각했던 것처럼 풀면 풀 수 있었던 문제  
 
+
+#### [강의실 배정](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=392)  
+- 제출 답안 : [classroom_assignment.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/classroom_assignment.cpp)  
+- 시간초과가 떠서 처음에 통과를 못했던 문제...  
+- 시간도 항상 check를 하면서 문제를 풀자!  
+- 정렬을 해야한다는 것은 맞았지만, 어떤 것을 정렬해야 하는지 틀렸던 문제  
+- Algo tutor를 보고 힌트를 얻어 문제를 풀었다.  
+- 강의실 배정 : 강의를 최대한 많이 배정하는 문제인지, 강의실의 활용률을 최대한으로 하는 것인지 구분하자!  
+
