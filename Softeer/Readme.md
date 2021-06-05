@@ -50,3 +50,9 @@
 - Algo tutor를 보고 힌트를 얻어 문제를 풀었다.  
 - 전역 변수로 배열을 만들어서 푸는 것이 가장 일반적인 듯  
 
+#### [우물 안 개구리](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=394)  
+- 제출 답안 : [frog_in_the_well.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/frog_in_the_well.cpp)  
+- 처음에 문제를 잘못 읽어서 헤멘 문제... 
+- 만약 비교를 하지 않으면 내가 세다고 계속 인식한다는 것을 놓침.  
+- 그 이외에는 내가 생각했던 것처럼 풀면 풀 수 있었던 문제  
+
