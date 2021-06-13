@@ -65,3 +65,7 @@
 - Algo tutor를 보고 힌트를 얻어 문제를 풀었다.  
 - 강의실 배정 : 강의를 최대한 많이 배정하는 문제인지, 강의실의 활용률을 최대한으로 하는 것인지 구분하자!  
 
+#### [조립 라인](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=403)  
+- 제출 답안 : [assembly_line.cpp](https://github.com/Taeyoung96/Algorithm-study/blob/main/Softeer/assembly_line.cpp)  
+- Algo tutor를 보고 힌트를 얻어 풀 수 있었던 문제  
+- 부분합을 이용하면 시간 복잡도를 확 줄일 수 있다.  
